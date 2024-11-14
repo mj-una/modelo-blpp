@@ -11,7 +11,7 @@
 {
   indice_gl: "num", // indice en matriz global
   nombre_ls: "txt", // titulo lista (ls) local
-  i_persona: "api-web", // interfaz^modo de uso (ui, texto, prompt, canvas, etc)
+  i_persona: "web", // pag^interfaz modo de uso (ui, texto, prompt, canvas, etc)
   s_botones: "obj", // arbol^sistema api para integracion de boton en comentario
   s_archivo: "obj", // ls^sistema de archivos {indice_loc: nombre_loc.extension}
   l_secuenc: ["num", ..."num"], // ls^inidice nodo anterior /.?/ y siguiente(es)
