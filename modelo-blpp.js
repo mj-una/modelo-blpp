@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 // MODELO DE PAQUETES HTTP/JSON PARA INTERFAZ BLiPiP (RED MODULAR Y RECURSIVA) <
-// archivos: json, txt, html, svg, css, js, wasm, base64, blob.    <
+// codigo: json, txt, commonmark, html, svg, css, ecmascript, wasm, base64, blob
 
 [ /* <-- matriz global */
 [ /* <-- lista local */
